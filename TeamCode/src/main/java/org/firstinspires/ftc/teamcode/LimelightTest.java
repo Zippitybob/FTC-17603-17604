@@ -9,9 +9,9 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 
 import java.util.List;
 
-@TeleOp(name = "AndroidStudioTest")
+@TeleOp(name = "LimelightTest")
 @SuppressWarnings({"unused", "FieldCanBeLocal"})
-public class AndroidStudioTest extends LinearOpMode {
+public class LimelightTest extends LinearOpMode {
 
     private DcMotor backLeft;
     private DcMotor backRight;
